@@ -17,8 +17,7 @@ across diverse domains, such as industry and agriculture, enabling the remote mo
 and control of some processes. However, the increasing complexity of processes imposes
 new challenges, such as the need for optimization, predictive capabilities, or simulations.
 Those functionalities are beyond the field of IoT and require new solutions, where the
-Digital Twin (DT) emerges, which proposes the creation of a virtual and dynamic repre-
-sentation of physical entities, enabling data analysis, simulations, and providing predictive
+Digital Twin (DT) emerges, which proposes the creation of a virtual and dynamic representation of physical entities, enabling data analysis, simulations, and providing predictive
 insights and optimization solutions.
 
 
