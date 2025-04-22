@@ -30,8 +30,7 @@ to create a more accurate system design.
 
 ## Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;The main problem about understanding the distinction between IoT and DT in the con-
-text of developing a DT is the difficulty in projecting a system design for the solution.
+&nbsp;&nbsp;&nbsp;&nbsp;The main problem about understanding the distinction between IoT and DT in the context of developing a DT is the difficulty in projecting a system design for the solution.
 This study focuses on comparing both technologies to inform and guide the architectural
 design of Digital Twin solutions, ensuring more coherent and efficient system development.
 
@@ -86,14 +85,12 @@ entity and interconnectivity between the devices used for it.
 
 ## Discussion
 
-&nbsp;&nbsp;&nbsp;&nbsp;The analysis presented in Table 1 highlights the complementary rela-
-tionship between Internet of Things (IoT) and Digital Twin (DT) technologies. While
+&nbsp;&nbsp;&nbsp;&nbsp;The analysis presented in Table 1 highlights the complementary relationship between Internet of Things (IoT) and Digital Twin (DT) technologies. While
 both technologies are often mentioned together, they serve distinct purposes and operate
 at different levels of abstraction within a system architecture.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;IoT is fundamentally responsible for enabling interconnectivity and physical inter-
-action with physical entities. IoT establishes the foundation upon which physical data
+&nbsp;&nbsp;&nbsp;&nbsp;IoT is fundamentally responsible for enabling interconnectivity and physical interaction with physical entities. IoT establishes the foundation upon which physical data
 is continuously gathered and transmitted. However, as the text discusses, IoT alone is
 limited to data acquisition and device connectivity. It does not provide mechanisms for
 interpreting, analyzing, or visualizing that data in a meaningful or interactive way.
